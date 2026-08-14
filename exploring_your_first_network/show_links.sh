@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-ip -brief link
+ip -br link
