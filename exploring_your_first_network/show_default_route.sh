@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-ip -4 show route default
+ip -4 route show default
